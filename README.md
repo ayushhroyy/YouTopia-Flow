@@ -4,6 +4,7 @@ https://youtu.be/gqjwCaIiSQ8
 # YouTopia Flow
 
 YouTopia Flow is a powerful AI-powered voice agent platform built on Cloudflare Workers - a VAPI alternative that runs on the edge.
+<img width="1440" height="932" alt="Screenshot 2026-04-07 at 17 18 57" src="https://github.com/user-attachments/assets/29165f2f-358a-4684-892f-42d4ee84f9a0" />
 
 ## Features
 
